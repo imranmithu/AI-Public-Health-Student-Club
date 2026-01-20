@@ -1,2 +1,1 @@
-# Holiday-Harmony-V2
-avoid problem during holiday 
+# AI & Public Health Student Club
